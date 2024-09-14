@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:revyos-ros/simple_launch-release
+release_repo_url: git@github.com:revyos-ros/simple_launch-release.git
 tracks:
   foxy:
     actions:
