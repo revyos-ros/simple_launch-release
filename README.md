@@ -1,3 +1,26 @@
+## simple_launch (jazzy) - 1.11.0-1
+
+The packages in the `simple_launch` repository were released into the `jazzy` distro by running `/root/venv/bin/bloom-release -r jazzy simple_launch --override-release-repository-push-url git@github.com:revyos-ros/simple_launch-release.git` on `Wed, 05 Mar 2025 05:36:54 -0000`
+
+The `simple_launch` package was released.
+
+Version of package(s) in repository `simple_launch`:
+
+- upstream repository: https://github.com/oKermorgant/simple_launch.git
+- release repository: https://github.com/revyos-ros/simple_launch-release.git
+- rosdistro version: `1.11.0-1`
+- old version: `1.10.1-1`
+- new version: `1.11.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## simple_launch (humble) - 1.11.0-1
 
 The packages in the `simple_launch` repository were released into the `humble` distro by running `/root/venv/bin/bloom-release -r humble simple_launch --override-release-repository-push-url git@github.com:revyos-ros/simple_launch-release.git` on `Tue, 04 Mar 2025 06:14:56 -0000`
